@@ -10,6 +10,8 @@ namespace OdevAKDersi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Açık Kaynak Dersi için oluşturduğum ödev1 ");
+            Console.ReadKey();
         }
     }
 }
